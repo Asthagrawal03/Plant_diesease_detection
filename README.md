@@ -1,1 +1,1 @@
-# Plant_iesease_detection
+# Plant_diesease_detection
